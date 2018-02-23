@@ -9,6 +9,9 @@ published: true
 
 ---
 
+* content
+{:toc}
+
 学习算法的预测误差, 或者说泛化误差(generalization error)可以分解为三个部分: 偏差(bias), 方差(variance) 和噪声(noise). 在估计学习算法性能的过程中, 我们主要关注偏差与方差. 因为噪声属于不可约减的误差 (irreducible error).
 
 首先抛开机器学习的范畴, 从字面上来看待这两个词:

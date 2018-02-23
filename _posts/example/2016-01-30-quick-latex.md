@@ -6,8 +6,12 @@ tag: LaTeX
 categories: example
 mathjax: true
 published: true
-
 ---
+
+
+* content
+{:toc}
+
 
 此篇为写给一些想快速入门 LaTeX 的朋友. 为什么叫从零开始? 因为我就是从零开始学会的 LaTeX。本人学识与能力有限，以下内容如有纰漏或错误，欢迎来信纠正。
 

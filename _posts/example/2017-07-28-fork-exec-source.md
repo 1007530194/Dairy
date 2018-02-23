@@ -8,6 +8,9 @@ published: false
 
 ---
 
+* content
+{:toc}
+
 先来说一下主要以下有几种方式：
 
 - **fork**: 如果脚本有执行权限的话，`path/to/foo.sh`。如果没有，`sh path/to/foo.sh`。

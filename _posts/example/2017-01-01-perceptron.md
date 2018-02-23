@@ -8,6 +8,9 @@ tag: "classification"
 mathjax: true
 ---
 
+* content
+{:toc}
+
 ![perceptron](https://github.com/rasbt/python-machine-learning-book/blob/master/code/ch02/images/02_04.png?raw=true)
 (图片来自 python-machine-learning)
 

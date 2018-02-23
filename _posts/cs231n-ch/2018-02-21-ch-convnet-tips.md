@@ -5,6 +5,10 @@ layout: page
 title: convnet-tips
 ---
 
+* content
+{:toc}
+
+
 <a name='overfitting'></a>
 ### Addressing Overfitting
 

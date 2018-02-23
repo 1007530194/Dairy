@@ -5,6 +5,9 @@ layout: page
 title: neural-networks-1
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Quick intro without brain analogies](#quick)

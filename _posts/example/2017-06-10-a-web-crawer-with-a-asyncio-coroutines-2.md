@@ -9,6 +9,9 @@ published: true
 
 ---
 
+* content
+{:toc}
+
 本文译自： [A Web Crawler With asyncio Coroutines](http://www.aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)。
 
 在上一篇的最后, 我们提到了多线程与异步的一些问题, 下面来介绍一下 Python 的协程(coroutines), 它兼具了多线程与异步的一些优点.

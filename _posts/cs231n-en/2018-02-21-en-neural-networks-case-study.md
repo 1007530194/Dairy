@@ -5,6 +5,9 @@ layout: page
 title: neural-networks-case-study
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Generating some data](#data)

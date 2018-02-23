@@ -5,6 +5,9 @@ layout: page
 title: linear-classify
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Intro to Linear classification](#intro)

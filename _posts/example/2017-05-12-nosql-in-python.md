@@ -8,6 +8,9 @@ published: true
 
 ---
 
+* content
+{:toc}
+
 - 完整的示例代码已经放到了 GitHub 上, 请 [点击这里](https://github.com/liuchengxu/hands-on-learning/blob/master/nosql.py), 这仅是一个极简的 demo, 旨在动手了解概念.
 - 如果对译文有任何的意见或建议，欢迎 [提 issue](https://github.com/liuchengxu/blog-cn/issues) 讨论, 批评指正. 
 

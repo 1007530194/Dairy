@@ -5,6 +5,9 @@ layout: page
 title: neural-networks-3
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Gradient checks](#gradcheck)

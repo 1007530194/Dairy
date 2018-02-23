@@ -6,6 +6,9 @@ title: IPython Tutorial
 title: ipython-tutorial
 ---
 
+* content
+{:toc}
+
 ***(Note: some of the screenshots here may be out-of-date. However, this should still prove
 useful as a quick intro, and for the general menu layout, etc.)***
 

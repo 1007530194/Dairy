@@ -5,6 +5,10 @@ title: 如何选择优化器 optimizer
 mathjax: true
 ---
 
+* content
+{:toc}
+
+
 在很多机器学习和深度学习的应用中，我们发现用的最多的优化器是 Adam，为什么呢？
 
 下面是 TensorFlow 中的优化器， 

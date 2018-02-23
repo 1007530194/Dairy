@@ -5,6 +5,9 @@ layout: page
 title: neural-networks-2
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Setting up the data and the model](#intro)

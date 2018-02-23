@@ -5,6 +5,9 @@ layout: page
 title: 线性分类
 ---
 
+* content
+{:toc}
+
 Table of Contents:
 
 - [Intro to Linear classification](#intro)

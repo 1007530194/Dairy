@@ -2,9 +2,12 @@
 categories: cs231n-en
 mathjax: true
 layout: page
-title: AWS Tutorial
 title: aws-tutorial
 ---
+
+* content
+{:toc}
+
 For GPU instances, we also have an Amazon Machine Image (AMI) that you can use
 to launch GPU instances on Amazon EC2. This tutorial goes through how to set up
 your own EC2 instance with the provided AMI. **We do not currently 

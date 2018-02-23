@@ -5,6 +5,9 @@ tag: bitcoin
 categories: example
 ---
 
+* content
+{:toc}
+
 ![1]({{ site.baseurl }}{{ site.images }}/posts/bitcoin-explained-1.png)
 
 比特币是一个存储和消费数字货币的革命性方式，并且有着变革其他领域的潜力。无须成为一个数学家或密码学家, 你就可以理解它是怎么回事。当开始看到整个系统是如何形成时，你可能会变得十分兴奋。本文是三篇系列文章中的第一篇。

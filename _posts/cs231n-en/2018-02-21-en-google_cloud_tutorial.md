@@ -3,8 +3,11 @@ categories: cs231n-en
 mathjax: true
 layout: page
 title: Google Cloud Tutorial
-title: gce-tutorial
 ---
+
+* content
+{:toc}
+
 # Google Cloud Tutorial #
 
 ## BEFORE WE BEGIN ##

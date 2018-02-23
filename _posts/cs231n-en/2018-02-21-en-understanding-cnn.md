@@ -5,6 +5,9 @@ layout: page
 title: understanding-cnn
 ---
 
+* content
+{:toc}
+
 <a name='vis'></a>
 
 (this page is currently in draft form)

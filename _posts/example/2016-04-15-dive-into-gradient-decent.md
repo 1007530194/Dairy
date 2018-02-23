@@ -8,6 +8,10 @@ tag: "optimization"
 mathjax: true
 ---
 
+
+* content
+{:toc}
+
 本文最初写于 2016 年 4 月发表于我的博客, 当时只是大略地给出了渐进理解的轮廓，很多内容也是粗糙的很，今天在这里重新梳理一遍。
 
 什么是梯度下降？可以先从这里 [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) 或 [梯度下降法](https://zh.wikipedia.org/wiki/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95) 了解其基本概念。

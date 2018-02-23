@@ -6,6 +6,9 @@ title: Python Numpy Tutorial
 title: python-numpy-tutorial
 ---
 
+* content
+{:toc}
+
 <!--
 Python:
   Simple data types
