@@ -9,18 +9,30 @@ import os
 import shutil
 import time
 
-root = "/Users/weidian/Documents/Diary/"
+root = "/Users/weidian/Documents/Dairy/"
 
 temp_path = root + "_posts/temp/"
 post_path = root + "_posts/"
 image_path = root + "assets/images/"
 
 
-def move_md_file(from_path, to_path, dir_path):
+def move_md_file(from_path, to_path, dir_path, file_path):
     fr = open(from_path, 'r')
     fw = open(to_path, 'w')
 
+    first_line = True
     for data in fr.readlines():
+        if first_line:
+            if "---" not in data:
+                data = "---" \
+                       + "\nlayout: post" \
+                       + "\ncategories: " + dir_path \
+                       + "\ntitle: " + file_path  \
+                       + "\nmathjax: true" \
+                       + "\n---" \
+                       + "\n\n* content\n{:toc}\n\n" \
+                       + data
+            first_line = False
         if "](resources/" in data:
             data = data.replace("resources", "{{ site.baseurl }}{{ site.images }}/" + dir_path)
         fw.write(data)
@@ -58,7 +70,7 @@ def solver(dir_path):
 
             from_path = temp_path + dir_path + "/" + file_path
             to_path = tag_path + "/" + time.strftime("%Y-%m-%d-", time.localtime()) + file_path
-            move_md_file(from_path, to_path, dir_path)
+            move_md_file(from_path, to_path, dir_path, file_path)
 
     shutil.rmtree(temp_path + dir_path)
 
