@@ -1,0 +1,9 @@
+{
+  "title": "2.2 实体识别和数据融合优化",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div>用户所在城市和区县，加上出现的频次和置信度，打标签的时候用到。</div><div><br/></div><div>出生地，根据身份证</div><div>常住地，看频次和置信度综合指标</div><div><br/></div><div>身份证上的地址，</div></div>"
+    }
+  ]
+}

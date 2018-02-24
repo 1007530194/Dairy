@@ -1,0 +1,9 @@
+{
+  "title": "推荐算法",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div>基于用户行为的相似商品计算</div><div>1  jaccard相似度</div><div><br/></div><div>2  Adamic/Adar 相似度<br/></div><div><br/></div><div>基于标签的相似度计算</div><div><br/></div><div>BINet相似度计算</div><div><br/></div><div>综合推荐</div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div></div>"
+    }
+  ]
+}

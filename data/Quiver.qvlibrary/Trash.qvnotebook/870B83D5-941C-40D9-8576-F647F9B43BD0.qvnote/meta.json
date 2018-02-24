@@ -1,0 +1,9 @@
+{
+  "created_at" : 1461194165,
+  "tags" : [
+
+  ],
+  "title" : "2.3 导入作业数据集total.csv到Hive中，用日期做为分区表的分区ID",
+  "updated_at" : 1461194306,
+  "uuid" : "870B83D5-941C-40D9-8576-F647F9B43BD0"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "1.1 vi操作之查找",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div><span style=\"font-family: verdana; font-size: 14px; orphans: 2; widows: 2;\">在命令模式下敲斜杆( / )这时在状态栏（也就是屏幕左下脚）就出现了 “/” 然后输入你要查找的关键字敲回车就可以了。</span><span style=\"font-family: verdana; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);\">&nbsp;</span><span style=\"font-family: verdana; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);\">&nbsp;</span><br/></div><div><span style=\"color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\">如果你要继续查找此关键字，敲字符 n 就可以继续查找了。</span><span style=\"color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\">&nbsp;</span></div><div><span style=\"color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;\">敲字符N（大写N）就会向前查询；</span></div></div>"
+    }
+  ]
+}

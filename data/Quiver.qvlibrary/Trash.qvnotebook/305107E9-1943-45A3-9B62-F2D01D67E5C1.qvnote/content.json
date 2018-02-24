@@ -1,0 +1,9 @@
+{
+  "title": "启动jobhistory",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div>&nbsp;cd /hadoop/hadoop/</div><div><br/></div><div>&nbsp;sbin/mr-jobhistory-daemon.sh start historyserver</div><div><br/></div></div>"
+    }
+  ]
+}

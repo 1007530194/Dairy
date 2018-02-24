@@ -1,0 +1,9 @@
+{
+  "title": "常见命令",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div><br/></div><div><br/></div><div><span style=\"color: rgb(0, 0, 102); font-family: &amp;quot;microsoft yahei&amp;quot;; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;\">hadoop dfsadmin -report</span></div><div><span style=\"font-size: 18px;\"><span style=\"font-family: &amp;apos;microsoft yahei&amp;apos;;\"><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(0, 0, 102);\"><br/></span></span></span></span></div><div><span style=\"font-size: 18px;\"><span style=\"font-family: &amp;apos;microsoft yahei&amp;apos;;\"><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(0, 0, 102);\"><br/></span></span></span></span></div><div><span style=\"color: rgb(51, 51, 51); font-family: tahoma, 宋体; font-size: 14px; text-align: justify; background-color: rgb(250, 250, 252);\">mr-jobhistory-daemon.sh start historyserver</span></div></div>"
+    }
+  ]
+}

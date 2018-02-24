@@ -1,0 +1,9 @@
+{
+  "title": "5.1 项目ID修改前的准备",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div>//在hive命令行添加jar 包</div><div>add jar&nbsp;/home/hadoop/niu/niu.jar;</div><div><br/></div><div>//自定义函数名</div><div>create temporary function uuid as &apos;com.utry.udf.UDF_Uuid&apos;;</div><div><br/></div><div>//删除表格</div><div>drop table dm_call_beibeile_d_niu;</div><div><br/></div><div>//修改表名</div><div>alter table dm_call_beibeile_d_niu_result rename to dm_call_beibeile_d_niu;</div><div><br/></div><div>//</div></div>"
+    }
+  ]
+}

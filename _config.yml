@@ -61,3 +61,4 @@ paginate: 6
 
 exclude: [data,diary]
 images: '/assets/images'
+pdfs: '/assets/pdfs'

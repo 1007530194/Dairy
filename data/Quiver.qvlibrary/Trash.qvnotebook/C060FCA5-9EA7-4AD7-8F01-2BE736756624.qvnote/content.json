@@ -1,0 +1,9 @@
+{
+  "title": "2.1 客户画像打标签",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div><b>1 字段汇总</b></div><div>将所有数据源的“表名+字段”放到同一张表中。</div><div><br/></div><div><br/></div><div><b>2 字段筛选</b></div><div>按照当前标签的相关性，对所有字段进行筛选，筛选出对当前标签相关的字段。</div><div><br/></div><div>3&nbsp;</div><div><br/></div></div>"
+    }
+  ]
+}

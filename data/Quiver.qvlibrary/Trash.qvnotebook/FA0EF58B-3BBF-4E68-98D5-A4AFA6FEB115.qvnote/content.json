@@ -1,0 +1,9 @@
+{
+  "title": "当前日记",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div><span>&nbsp; &nbsp;</span></div><div><br/></div><div><br/></div><div><span style=\"-en-paragraph: true; font-weight: bold;\">git checkout –b new_name origin/branch</span> <span style=\"-en-paragraph: true; font-family: 宋体; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-hansi-font-family: &quot;Times New Roman&quot;;\">复制并切换到远端分支</span></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div>统计相关代码目录：/Stuff/crontab_scripts/tongjis</div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div>过滤掉大客户的，如飞利浦</div><div><br/></div><div><br/></div><div>python 连接 mysql</div><div>mysql -umaimiao_ops &nbsp;-pmaimiaoadmin2014 -P4040 -h10.242.173.131</div><div><br/></div><div>mysql -umaimiao_ops2 -pmaimiaoadmin2014 -P4041 -h10.242.173.131</div><div><br/></div><div>mysql -umaimiao_ops3 -pmaimiaoadmin2014 -P4042 -h10.242.173.131</div><div><br/></div><div>mysql -umaimiao_ops4 -pmaimiaoadmin2014 -P4043 -h10.242.173.131</div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div>线上优钻宝：yun16 121.199.179.216 &nbsp; debug&nbsp;&nbsp;&nbsp;M05oS(*1051 /alidata1/nfs_log/job10/zz_auto_campaign_optimize</div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div><div><br/></div></div>"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "hadoop启动",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div><br/></div><div><br/></div><div><br/></div><div>hadoop目录下，进入bin/，执行 ./start-all.sh</div><div><br/></div><div><br/></div><div>启动</div><div><span style=\"color: rgb(61, 70, 77); font-family: &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Open Sans&amp;quot;, Arial, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, STHeiti, &amp;quot;WenQuanYi Micro Hei&amp;quot;, SimSun, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none;\">./mr-jobhistory-daemon.sh start historyserver</span></div></div>"
+    }
+  ]
+}

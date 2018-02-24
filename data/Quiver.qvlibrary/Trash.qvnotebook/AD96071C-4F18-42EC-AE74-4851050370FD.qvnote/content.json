@@ -1,0 +1,9 @@
+{
+  "title": "电脑桌面点右键要很久才显示菜单怎么解决？",
+  "cells": [
+    {
+      "type": "text",
+      "data": "<div style=\"word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; white-space: normal;\"><div style=\"margin: 0px 0px 10px; padding: 0px; font-family: arial, &amp;apos;courier new&amp;apos;, courier, 宋体, monospace, &amp;apos;Microsoft YaHei&amp;apos;; font-size: 14px; color: rgb(51, 51, 51); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);\"><div>解决这个问题有两个方法：</div><div>1，进入regedit</div><div>HKEY_CLASSES_ROOT\\Directory\\Background\\shellex\\ContextMenuHandler\\把“new”以外的都删掉，就能迅速显示右键桌面菜单</div><br/>\n2，如果第1条解决不了，那就把你多余的显卡驱动卸载掉，比如你可能以前用的是A卡，现在换用N卡了，你就把A卡驱动删掉，这两个方法绝对100%能解决你的问题。<br/></div></div>"
+    }
+  ]
+}
