@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "如何使用 babel"
-categories: JavaScript
+categories: gaohaoyangBlog
 tags:  ES2015 ES6 ES5 babel 
 mathjax: true
 ---

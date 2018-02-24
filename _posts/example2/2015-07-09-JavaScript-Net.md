@@ -2,7 +2,7 @@
 layout: post
 title:  "JavaScript 阶段总结"
 date:   2015-07-09 00:06:05
-categories: JavaScript
+categories: gaohaoyangBlog
 tags: JavaScript HTML CSS 思维导图 技能树
 ---
 
